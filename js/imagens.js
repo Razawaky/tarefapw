@@ -10,15 +10,15 @@ console.log(ID)
 switch(ID) {
 case 'raposa':
 $('audio').attr('src', 'img/raposa.mp3')
-alert('ran ran ran rrrrrrr')
+alert('Raposa: ran ran ran rrrrrrr')
 break
 case 'dragon':
 $('audio').attr('src', 'img/dragao.mp3')
-alert('roar, roooor')
+alert('Dragão de Komodo: roar, roooor')
 break
 case 'corv':
 $('audio').attr('src', 'img/corvo.mp3')
-alert('croac croac, cuá')
+alert('Corvo: croac croac, cuá')
 break
 }  
 

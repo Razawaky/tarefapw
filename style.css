@@ -7,3 +7,17 @@
     transform: scale(1.04);
     transition: all .5s;
 }
+
+.bg-green {
+    background-color: #4CA;
+}
+
+.text-white {
+    transition: all ease-in-out 0.6s !important;
+}
+
+.text-white:hover {
+    color: rgb(0, 253, 148) !important;
+    transition: all ease-in-out 0.6s !important;
+    transform: translateY(2px);
+}
